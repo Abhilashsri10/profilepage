@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import contact from '../public/image/contactlogo.png';
 import mailme from '../public/image/mailmeimg.png';
 
+
+
 class Contact extends Component {
     render() {
         return (

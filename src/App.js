@@ -25,6 +25,7 @@ function App() {
         <hr />
         <Portfolio />
         <hr />
+        <br />
         <Contact />
         <hr/>
 

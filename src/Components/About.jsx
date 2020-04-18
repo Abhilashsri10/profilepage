@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import biologo from '../public/image/abhi.jpg';
 
+
 class About extends Component {
     render (){
         return (

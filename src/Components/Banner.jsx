@@ -3,6 +3,7 @@ import logo from '../public/image/abhi.jpg';
 import cse from '../public/image/mulesoft.png';
 import Background from '../public/image/back5.jpg';
 
+
 var sectionStyle = {
     width: "100%",
     height: "400px",
