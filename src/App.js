@@ -10,7 +10,11 @@ import Portfolio from './Components/Portfolio';
 import About from './Components/About';
 import Skills from './Components/Skills';
 //
+import Client from './contentful';
 
+Client.getEntries({
+  content_type:"profilepage"
+}).then(response => console.log(response.items));
 
 function App() {
   return (

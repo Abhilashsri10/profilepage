@@ -15,7 +15,7 @@ class Contact extends Component {
                 <a id="mail" href="https://mail.google.com/mail/?view=cm&fs=1&to=abhi.srivastava456@gmail.com"><img id="mailmelogo" src={mailme} alt="mail me"/>Click here to Send mail</a>
                 <h4>Contact info: 8072344306</h4>
                 <a href="https://www.facebook.com/abhilash.srivastava.7927">
-                        <span classname="icon fa fa-facebook" style={{color:'antiquewhite'}}></span>
+                        <span className="icon fa fa-facebook" style={{color:'antiquewhite'}}></span>
                 </a>
                     <a href="https://github.com/Abhilashsri10">
                         <span className="icon fa fa-github" style={{color:'black'}}></span>

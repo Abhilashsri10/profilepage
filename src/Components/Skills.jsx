@@ -7,7 +7,7 @@ class Skills extends Component {
         return (
            <div className="skillbox">
             <h1 className="skillheader" id="skillhead">My Skills</h1>
-              <ul> 
+              <ul > 
                <li><span>Mulesoft</span></li>
                <li><span>ReactJs</span></li>
                <li><span>Flask</span></li>
