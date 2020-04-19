@@ -1,5 +1,5 @@
 .header-h1{
-    color: antiquewhite;
+    color: rgb(53, 11, 131);
     font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
     text-transform: uppercase;
@@ -11,7 +11,7 @@
 }
 
 .navbar{
-    background-color: rgb(255, 246, 246);
+    background-color: rgb(60, 111, 221);
     border-radius: 15px;
     border-style: hidden;
     padding: 18px; 

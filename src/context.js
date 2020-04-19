@@ -15,7 +15,7 @@ class ProjectProvider extends Component {
     getData = async() =>{
         try{
             let response = await Client.getEntries({
-                content_type:"profilepage",
+                content_type: "profilepage",
                 order: 'sys.createdAt'
             });
             let projects = this.formatData(response.items);

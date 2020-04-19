@@ -8,6 +8,8 @@ import CardMedia from '@material-ui/core/CardMedia';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
+
+
 const useStyles= makeStyles({
     root: {
         maxWidth: 345,
@@ -23,11 +25,11 @@ export default function ProjectCard(props) {
     const classes =useStyles();
 
     return (
-        <Card className={classes.root}>
+        <Card className={classes.root} style={{justifyContent: 'space-between'}}>
                 <CardActionArea>
                     <CardMedia
                     className={classes.media}
-                    image="/static/images/cards/contemplative-reptile.jpg"
+                    image={props.logo}
                     title="Contemplative Reptile"
                     />
                     <CardContent>

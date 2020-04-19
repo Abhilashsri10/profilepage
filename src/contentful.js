@@ -1,4 +1,4 @@
-import {createClient} from 'contentful'
+import {createClient} from 'contentful';
 
 const contentful = require("contentful");
 
