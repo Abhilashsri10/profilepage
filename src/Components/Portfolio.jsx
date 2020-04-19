@@ -22,6 +22,7 @@ class Portfolio extends Component {
                     <ProjectCards projectName="Balanced Scorecard" content={content1} logo={logo2}></ProjectCards>
                     <ProjectCards projectName="Facts" content={content1} logo={logo3}></ProjectCards>
                     <ProjectCards projectName="FSP" content={content1} logo={logo4}></ProjectCards>
+                    <ProjectCards projectName="QMP" content={content1} logo={logo2}></ProjectCards>
                  </div>
             </section>
         )
