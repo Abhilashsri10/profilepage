@@ -5,8 +5,9 @@ import logo2 from '../public/image/driscolls1.jpg';
 import logo3 from '../public/image/driscolls2.jpg';
 import logo4 from '../public/image/driscolls3.jpg';
 
-const content1="this is a web app to maintain driscolls inventory";
-
+const content1="developed APIs for this web APP";
+const content2="developed APIs for this web APP";
+const content3="developed APIs for this web APP";
 
 
 class Portfolio extends Component {
